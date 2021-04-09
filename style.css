@@ -8,7 +8,7 @@
 
 /*Background*/
 body {
-  background-image: url("img/BG_Gold.jpg");
+  background-image: url("img/BG_Gold.JPG");
   background-attachment: fixed;
   background-size: cover;
 }
@@ -70,7 +70,7 @@ a:active {
 
 /*Main content*/
 .foreground {
-  background-image: url("img/BG_Marble_W.jpg");
+  background-image: url("img/BG_Marble_W.JPG");
   width: 100%;
 }
 
